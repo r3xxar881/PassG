@@ -23,7 +23,7 @@ public class PassG
 				String pass = ""; //Hacemos una nueva cadena vacia que contendrá a los caracteres concatenados (Osea, la contraseña).
 				
 				
-				//Siclo for que realiza 8 veces una concatenacion de caracteres al azar que los toma segun la posicion con respecto al numero random que generamos.
+				//Siclo for que realiza 10 veces una concatenacion de caracteres al azar que los toma segun la posicion con respecto al numero random que generamos.
 				for(int i = 0; i < 10; i++)
 					{
 						int num = aleatorio.nextInt(elemento.length()); //el elemento de tipo Random genera un numero de entre 0 y 64, sin contar el 65.
