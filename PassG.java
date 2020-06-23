@@ -2,7 +2,7 @@
 //PassG_v1 By r3xx.
 
 
-/*Genera contraseñas de 8 digitos, con todo 
+/*Genera contraseñas de 10 digitos, con todo 
   el alfabeto y todos los numero del 0 al 9*/
 
 
