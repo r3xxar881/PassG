@@ -15,7 +15,7 @@ public class PassG
 		public static void main(String args[])
 			{
 				
-				//Se cra la cadena que contendrá los caracteres que queremos para la contraseña:
+				//Se crea la cadena que contendrá los caracteres que queremos para la contraseña:
 				String elemento = "abcdefghijklmn\u00f1opqrstuvwxyzABCDEFGHIJKLMN\u00d1OPQRSTUVWXYZ0123456789";
 				
 				Random aleatorio = new Random(); //Creamos un objeto de la clase "Random".
